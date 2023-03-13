@@ -1,0 +1,330 @@
+CRITICAL - 2023-03-11 07:15:01 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(110): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('3')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:16:15 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(113): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('3')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:17:30 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(116): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('4')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:17:44 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(116): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('5')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:19:16 --> Undefined variable $session
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('6')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 07:19:52 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(116): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('6')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:21:43 --> Attempt to read property "user_email" on array
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 110)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('6')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 07:22:33 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(116): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->delete('6')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:28:44 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(40): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->create()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:29:14 --> Undefined variable $password
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 07:29:48 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(40): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->create()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:31:23 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(40): view('backend/footer')
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->create()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:32:09 --> Undefined variable $password
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 07:32:22 --> Undefined variable $password
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 07:35:05 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(55): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:36:32 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(56): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:37:10 --> CodeIgniter\HTTP\Response::redirect(): Argument #2 ($method) must be of type string, array given, called in C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php on line 55
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(55): CodeIgniter\HTTP\Response->redirect('http://localhos...', Array)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 07:38:07 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(56): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:38:44 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(56): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:40:38 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(56): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:41:24 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(59): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->store()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:43:09 --> Undefined variable $data_context_admin
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\backend\footer.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('backend/footer', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(105): view('backend/footer', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->update()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-03-11 07:57:59 --> Table 'thethousandvaults.region' doesn't exist
+CRITICAL - 2023-03-11 07:57:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\Home.php(81): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\Home->login()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-03-11 07:58:09 --> Table 'thethousandvaults.region' doesn't exist
+CRITICAL - 2023-03-11 07:58:09 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\Home.php(81): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\Home->login()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-03-11 07:59:07 --> Table 'thethousandvaults.region' doesn't exist
+CRITICAL - 2023-03-11 07:59:07 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\Home.php(27): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\Home->login()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-03-11 07:59:22 --> Table 'thethousandvaults.category' doesn't exist
+CRITICAL - 2023-03-11 07:59:22 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\Home.php(28): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\Home->login()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-03-11 08:02:32 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\Home.php(31): count(NULL)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 08:02:36 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\Home.php(31): count(NULL)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-11 08:31:01 --> Class "App\Controllers\RolModel" not found
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\RolController->index()
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RolController))
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-03-11 08:31:20 --> Undefined variable $user
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\admin\Roles\list_view.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('admin/roles/lis...', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\RolController.php(31): view('admin/roles/lis...', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\RolController->index()
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RolController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-03-11 09:37:08 --> Column 'email' cannot be null
+CRITICAL - 2023-03-11 10:21:16 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\admin\edit_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('admin/edit_view', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(71): view('admin/edit_view', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->singleUser('3')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 10:26:02 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\admin\edit_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('admin/edit_view', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\UserController.php(71): view('admin/edit_view', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\UserController->singleUser('4')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 10:27:47 --> Undefined variable $user_obj
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\admin\edit_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('admin/edit_view', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\RolController.php(56): view('admin/edit_view', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\RolController->detail('3')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RolController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 10:29:03 --> Undefined variable $user_obj
+#0 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Views\admin\edit_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\Common.php(1089): CodeIgniter\View\View->render('admin/edit_view', Array, true)
+#4 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\app\Controllers\RolController.php(56): view('admin/edit_view', Array)
+#5 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(825): App\Controllers\RolController->detail('3')
+#6 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RolController))
+#7 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\DesarrolloDigital\thethousandvaults.com\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
